@@ -1,0 +1,6 @@
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_Entidades\obj\Debug\Capa_Entidades.pdb

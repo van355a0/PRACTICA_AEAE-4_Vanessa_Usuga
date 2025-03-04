@@ -1,0 +1,11 @@
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\bin\Debug\Capa_Entidades.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\bin\Debug\Capa_Entidades.pdb
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\obj\Debug\Capa_Log.592EBA8F.Up2Date
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb

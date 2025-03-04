@@ -1,0 +1,9 @@
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\bin\Debug\Capa_Entidades.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\bin\Debug\Capa_Entidades.pdb
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\obj\Debug\Capa_Acc.F12F14FF.Up2Date
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+F:\PASCUAL BRAVO\5to semestre\Herramientas\Proyecto_Facturacion_Capas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb

@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843D3C24-7102-4672-8969-10C8183490A9}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D3C24-7102-4672-8969-10C8183490A9}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj|solutionrelative:capa_accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1E0A83-0459-4B4F-8C54-530F4D721DAC}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_logicadenegocios\\empleadonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1E0A83-0459-4B4F-8C54-530F4D721DAC}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|solutionrelative:capa_logicadenegocios\\empleadonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05616B5-5C77-418B-AC55-E1FC0A732119}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Entidades\\Capa_Entidades.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05616B5-5C77-418B-AC55-E1FC0A732119}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Entidades\\Capa_Entidades.csproj|solutionrelative:capa_entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1E0A83-0459-4B4F-8C54-530F4D721DAC}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_logicadenegocios\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1E0A83-0459-4B4F-8C54-530F4D721DAC}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|solutionrelative:capa_logicadenegocios\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmlistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmlistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmlistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmlistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmlogin_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmlogin_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmlogin_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmlogin_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1E0A83-0459-4B4F-8C54-530F4D721DAC}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_logicadenegocios\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1E0A83-0459-4B4F-8C54-530F4D721DAC}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|solutionrelative:capa_logicadenegocios\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|f:\\pascual bravo\\5to semestre\\herramientas\\proyecto_facturacion_capas\\capa_presentacion\\frmadminseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32E351C5-FAD9-4580-B3DC-8C97AA5B599D}|..\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmadminseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoNegocio.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\EmpleadoNegocio.cs",
+              "RelativeDocumentMoniker": "Capa_LogicaDeNegocios\\EmpleadoNegocio.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\EmpleadoNegocio.cs",
+              "RelativeToolTip": "Capa_LogicaDeNegocios\\EmpleadoNegocio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:32:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Entidades\\Empleados.cs",
+              "RelativeDocumentMoniker": "Capa_Entidades\\Empleados.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Entidades\\Empleados.cs",
+              "RelativeToolTip": "Capa_Entidades\\Empleados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:31:36.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEmpleados.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmEmpleados.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmEmpleados.cs",
+              "RelativeToolTip": "Capa_Presentacion\\frmEmpleados.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAwLwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:29:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "Capa_LogicaDeNegocios\\ClienteNegocio.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\ClienteNegocio.cs",
+              "RelativeToolTip": "Capa_LogicaDeNegocios\\ClienteNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:27:28.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListaClientes.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmListaClientes.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmListaClientes.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmListaClientes.cs",
+              "RelativeToolTip": "Capa_Presentacion\\frmListaClientes.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAkwK8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:25:41.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmClientes.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:25:32.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_AccesoDatos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Capa_AccesoDatos\\AccesoDatos.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_AccesoDatos\\AccesoDatos.cs",
+              "RelativeToolTip": "Capa_AccesoDatos\\AccesoDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEABAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:23:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Capa_LogicaDeNegocios\\UsuarioNegocio.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_LogicaDeNegocios\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Capa_LogicaDeNegocios\\UsuarioNegocio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:21:54.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin_D.cs",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmLogin_D.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmLogin_D.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmLogin_D.cs",
+              "RelativeToolTip": "Capa_Presentacion\\frmLogin_D.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAADwv1kAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:20:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmEmpleados.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\frmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:14:48.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmListaClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmListaClientes.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmListaClientes.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmListaClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\frmListaClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:14:42.586Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAdminSeguridad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmAdminSeguridad.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmAdminSeguridad.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmAdminSeguridad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\frmAdminSeguridad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:14:33.892Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin_D.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmLogin_D.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\frmLogin_D.cs",
+              "ToolTip": "F:\\PASCUAL BRAVO\\5to semestre\\Herramientas\\Proyecto_Facturacion_Capas\\Capa_Presentacion\\frmLogin_D.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\frmLogin_D.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:14:31.29Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
