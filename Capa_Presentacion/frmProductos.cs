@@ -7,9 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Capa_LogicaDeNegocios;
-using Capa_Entidades;
-using System.Data.SqlClient;
 
 
 
